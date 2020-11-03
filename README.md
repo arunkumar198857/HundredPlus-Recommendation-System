@@ -1,6 +1,6 @@
 # HundredPlus-Recommendation-System
 
-This repository contains the non-machine learning recommendation system for recommendation of products on the hundredplus.in website.
+This repository contains the preliminary product recommendation system algorithm for https://100plusmall.com/ .
 
 Tasks done:
 1. Data Analytics
