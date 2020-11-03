@@ -9,3 +9,7 @@ Tasks done:
 4. Pre processing of data
 5. Filtering of intermediate results to generate final recommended products.
 
+
+## Recommendation Flowchart ###
+![](Recommender%20System%20Final%20layout.png)
+
